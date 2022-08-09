@@ -14,6 +14,11 @@ readme文档采用常见的[markdown编辑方式](https://www.markdownguide.org/
 
 前期以深度学习和音频的基础理论知识为主，搭配paddlespeech开源程序库进行实践练习；学习过程中了解体验其他企业推出的语音智能交互产品。之后逐渐开始阅读相关学术论文，明确研究方向和论文
 
+之后会在[issues](https://github.com/fuqi0714/VoiceLearning/issues)界面创建对应的任务和说明，根据说明进行对应文档的更新，注意系统的提示邮件和信息
+
+- [方向综述](https://github.com/fuqi0714/VoiceLearning/blob/main/VoiceLearning/%E8%AF%AD%E8%A8%80%E8%AE%BA%E6%96%87%E6%96%B9%E5%90%91/%E8%AF%AD%E9%9F%B3%E7%BB%BC%E8%BF%B0.md)
+
+- [基础理论](https://github.com/fuqi0714/VoiceLearning/blob/main/VoiceLearning/%E8%AF%AD%E9%9F%B3%E7%9B%B8%E5%85%B3%E5%9F%BA%E7%A1%80%E7%90%86%E8%AE%BA/%E8%AF%AD%E9%9F%B3%E5%9F%BA%E7%A1%80%E7%90%86%E8%AE%BA.md)
 
 ## 学习文件夹结构
 
